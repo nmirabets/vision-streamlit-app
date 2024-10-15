@@ -39,3 +39,6 @@ tornado==6.4.1
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
+libgl1-mesa-glx==2.2.0
+libglib2.0-0==2.74.0
+
